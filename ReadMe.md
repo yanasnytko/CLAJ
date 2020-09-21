@@ -1,4 +1,20 @@
+<!-- omit in toc -->
 # Analyse fonctionnelle - CLAJ (Site multipages)
+
+- [Infos sur le client](#infos-sur-le-client)
+  - [Buts du CLAJ](#buts-du-claj)
+  - [Public cible](#public-cible)
+  - [Buts du site](#buts-du-site)
+  - [Infos de contact](#infos-de-contact)
+- [Techniquement parlant](#techniquement-parlant)
+- [Fichiers reçus](#fichiers-reçus)
+  - [Polices](#polices)
+  - [Couleurs](#couleurs)
+- [Analyse du site](#analyse-du-site)
+  - [Globalement](#globalement)
+  - [Arborescence](#arborescence)
+- [Questions](#questions)
+  - [Recherches](#recherches)
 
 Ce projet est réalisé par :
 | Joéllie | Mohamed | Rachel | Yana |
@@ -126,11 +142,11 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 5. *Nos amis...* (Partenaires)
 6. *Nous contacter* (Toutes les adresses avec jolies illus)
 
-## :interrobang:
+## Questions
 
 * Google Maps est payant - ok pour un équivalent ?
 * Faut-il un calendrier ?
-* Quel CMS / Languages / Framework / ... ? (React, Node.js, Drupal, CodeIgniter, Symfony, Magento, Strapi, Laravel, ...)
+* Quel CMS / Languages / Framework / ... :interrobang: (React, Node.js, Drupal, CodeIgniter, Symfony, Magento, Strapi, Laravel, ...)
 * Faut-il une newsletter ?
 
 ### Recherches
