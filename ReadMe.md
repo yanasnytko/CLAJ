@@ -77,12 +77,35 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 ## Fichiers reçus
 
 * **Logo** (blanc/vert, sur fonds blanc/vert/rose avec et sans baseline) ;
-* Fichier Photoshop avec le **fond** ;
+
+![Logo](screens/logo.JPG)
+
+* Fichier Photoshop avec le **fond** pour Header ;
+
+![Fond](screens/fond.JPG)
+
 * Affiche (ai, pdf) ;
+
+![Affiche](screens/affiche.JPG)
+
 * Dépliant (ai, pdf) ;
-* En-tête (ai, pdf) ;
+
+![depliant](screens/depliant1.JPG)
+![depliant](screens/depliant2.JPG)
+
+* En-tête et bas de page (ai, pdf) ;
+
+![entete](screens/entete.JPG)
+![entete](screens/basdepage.JPG)
+
 * Flyer (ai, pdf) ;
+
+![Flyer](screens/flyer.JPG)
+
 * Plan / map (ai, pdf, jpg, tif) ;
+
+![Map](screens/map.JPG)
+
 * Dossier du site :
   * pages html,
   * css,
@@ -106,22 +129,26 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 
 :bulb: Les noms en italique sont ceux de logo.
 
-* **Jaune**, #FAE920, rgb(250, 233, 32) ;
-* **Jaune-orange**, #F5C509, rgb(245, 197, 9) ;
-* **Vert**, #2D692D, rgb(45, 105, 45) ;
-* Dégradé de **Vert-blue**, #279037, rgb(39, 144, 55) vers **Vert-jaune**, #9CC429, rgb(156, 196, 41) ;
-* *Vert-jaune*, #4B9228, rgb(75, 146, 40) ;
-* **Blanc-blue**, #CAE8F3, rgb(202, 232, 243) ;
-* **Blue**, #2084C6, rgb(32, 132, 198) ;
-* **Rose**, #EA5599, rgb(234, 85, 153) ;
-* *Mauve*, #C82280, rgb(200, 34, 128) ;
-* **Rouge**, #E34522, rgb(227, 69, 34).
+* ![Jaune](screens/colors/j.JPG) **Jaune**, #FAE920, rgb(250, 233, 32) ;
+* ![Jaune-orange](screens/colors/j-o.JPG) **Jaune-orange**, #F5C509, rgb(245, 197, 9) ;
+* ![Vert](screens/colors/v.JPG) **Vert**, #2D692D, rgb(45, 105, 45) ;
+* Dégradé de ![Vert-blue](screens/colors/v-b.JPG) **Vert-blue**, #279037, rgb(39, 144, 55) vers ![Vert-jaune](screens/colors/v-j.JPG) **Vert-jaune**, #9CC429, rgb(156, 196, 41) ;
+![Dégradé](screens/colors/degrade.JPG)
+* ![Vert-jaune du logo](screens/colors/v-j-logo.JPG) *Vert-jaune*, #4B9228, rgb(75, 146, 40) ;
+* ![Blanc-blue](screens/colors/b-b.JPG) **Blanc-blue**, #CAE8F3, rgb(202, 232, 243) ;
+* ![Blue](screens/colors/b.JPG) **Blue**, #2084C6, rgb(32, 132, 198) ;
+* ![Rose](screens/colors/rose.JPG) **Rose**, #EA5599, rgb(234, 85, 153) ;
+* ![Mauve](screens/colors/m.JPG) *Mauve*, #C82280, rgb(200, 34, 128) ;
+* ![Rouge](screens/colors/rouge.JPG) **Rouge**, #E34522, rgb(227, 69, 34).
 
 ## Analyse du site
 
 ### Globalement
 
 * Header = Logo + baseline et illustration avec un fond incorporé (cf. fichier Photoshop) ;
+
+![Header](screens/header.JPG)
+
 * Fond en dégradé, de vert-jaune à vert-blue ;
 * Animations dessinées très lentes ;
 * Illustrations ;
@@ -134,13 +161,17 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 1. *Qui sommes-nous ?* (Description, adresse)
 2. *Pour qui, pour quoi ?*
    1. Qui : 5 boutons qui déclanchent des pop-ups ;
+   ![Pour qui avec pop-up](screens/qui.JPG)
    2. Quoi : 28 paragraphes qui s'agrandissent au survole.
+   ![Pour quoi](screens/quoi.JPG)
 3. *Le CLAJ près de chez toi !* (Carte interactive)
 4. *Quoi d'neuf ?*
    1. Agenda - renvoie vers une page des évènements ;
    2. Outils pédagogiques - renvoie vers une page avec des pdf et leur déscription.
 5. *Nos amis...* (Partenaires)
 6. *Nous contacter* (Toutes les adresses avec jolies illus)
+
+![L'arborescense](screens/nav.JPG)
 
 ## Questions
 
