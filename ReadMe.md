@@ -179,6 +179,21 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 * Faut-il un calendrier ?
 * Quel CMS / Languages / Framework / ... :interrobang: (React, Node.js, Drupal, CodeIgniter, Symfony, Magento, Strapi, Laravel, ...)
 * Faut-il une newsletter ?
+* Toujours spécifier AMO ?
+	Est-ce que le client a toujours ses accès à OVH ? 
+	De quelle manière veulent ils voir apparaître les partenaires ?
+	Quid logos CAAJ et Communauté française dans l'intro ?
+	Une ou 6 pages Facebook ?
+	Peut-on enlever le fond photo photo vert du banner ? 
+	Mettre le banner en footer ? Voire carrément supprimer (exemple UCM) car cela n'altère pas leur identité
+	Un des buts est "regrouper infos sur le claj" : infos institutionnelles ou blog ?
+	Quand ils parlent de mettre à jour le contenu, jusqu'où veulent ils aller ? Supprimer des blocs, changer des titres, adresses ? 
+	Clarifier plugin facebook et events 
+	Existe-t-il une charte graphique (nom des polices, couleurs, taille etc.) ? 
+	Ok pour retranscrire pdf en contenu texte (référencement)
+	Quelles sont leurs valeurs ? 
+	Les mêmes activités dans toutes les antennes ? Quelles sont les spécificités par antenne ?
+	Faire lien avec page instagram ?
 
 ### Recherches
 
