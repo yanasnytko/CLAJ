@@ -19,6 +19,7 @@
 Ce projet est réalisé par :
 | Joéllie | Mohamed | Rachel | Yana |
 | ------- | ------- | ------ | ---- |
+| Structure, contenu, UX et Design + support | Front-End | Front-End + design ? + support | Back-end + illus / design ? - Project manager |
 
 ## Infos sur le client
 
