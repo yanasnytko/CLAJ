@@ -17,9 +17,10 @@
   - [Recherches](#recherches)
 
 Ce projet est réalisé par :
-| Joéllie | Mohamed | Rachel | Yana |
-| ------- | ------- | ------ | ---- |
-| Structure, contenu, UX et Design + support | Front-End | Front-End + design ? + support | Back-end + illus / design ? - Project manager |
+|  | Joéllie | Mohamed | Rachel | Yana |
+| -| ------- | ------- | ------ | ---- |
+| Tâches | Structure, contenu, UX et Design  | Front-End | Front-End  | Back-end - Project manager |
+| Complement | support |  | design, support | illus / design ? |
 
 ## Infos sur le client
 
