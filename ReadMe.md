@@ -18,6 +18,7 @@
   - [Globales](#globales)
   - [Contenu](#contenu)
   - [Recherches](#recherches)
+  - [Questions - Fabien](#questions---fabien)
 
 Ce projet est réalisé par :
 |                | Joéllie                          | Mohamed   | Rachel          | Yana                       |
@@ -132,11 +133,29 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 
 ### Polices
 
-- Myriad Roman / Bold ;
+- Myriad Roman ;
+
+![Myriand Roman](screens/polices/myriad-roman.png)
+
+- Myriad Bold ;
+
+![Myriand Bold](screens/polices/myriad-bold.png)
+
 - Kristen ITC Regilar ;
+
+![Kristen ITC Regilar](screens/polices/kristen.jpg)
+
 - Century Gothic Bold ;
+
+![Century Gothic Bold](screens/polices/century-gothic-bold.png)
+
 - Maiandra GD Regular ;
+
+![Maiandra GD Regular](screens/polices/maiandra.png)
+
 - Antiqua Book.
+
+![Antiqua Book](screens/polices/antiqua-book.png)
 
 ### Couleurs
 
@@ -266,4 +285,22 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 
 - [ ] FB developper doc - comment récuperer les events dans l'API ;
 - [ ] Bcrypt mot de passe ;
-- [ ] * Quel CMS / Languages / Framework / ... :interrobang: (React, Node.js, Drupal, CodeIgniter, Symfony, Magento, Strapi, Laravel, ...).
+- [ ] * Quel CMS / Languages / Framework / ... :interrobang: (React, Node.js, Drupal, CodeIgniter, Symfony, Magento, Strapi, Laravel, ...) ;
+- [ ] Regarder (à l'internationale) les sites des autres centres des jeunes.
+
+### Questions - Fabien
+
+- Avec qui travaillent ? Autres centres ou ASBL ?
+- Partenaires ?
+- Combien sont-ils à travailler dedans ?
+- Visibilité ? De quel sort, pour quoi exactement, que veut dire par ça ?
+- Visibilité auprès du quel public ?
+- Combien de visites sur le site par mois ? La visibilité c'est plus des visites ou autre ?
+- De quel manière on voit que l'objectif (chiffré) est rempli ?
+- Une newsletter ?
+- Quels subsides et comment ? Mettre les sponsors en valeur ?
+- Quel site voulez-vous ? Pourquoi comme ça ? Que cherchez-vous à faire ?
+
+:bulb: Calendrier ! Deadlines - interactions faciles ou il est occupé ? Si occupé, faut être plus pertinent !
+
+:bulb: Prendre la personne par la main - envoyer un mail de résumé après.
