@@ -10,6 +10,8 @@
   - [Fonctions complémentaires](#fonctions-complémentaires)
 - [Propositions](#propositions)
 
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md).
+
 ## Description
 
 Le CLAJ est constitué des **six** centres liés à des quartiers différents de Liège et propose trois axes d'aide :
@@ -97,3 +99,5 @@ Le CLAJ s'adresse à tout type de demande tant que cette dernière est faite par
 - Séparation du site en trois onglets en fonction du public cible ;
 
 - Ne plus fonctionner par code couleur pour les axes d'aide (individuel, collectif et communautaire), mais par pictos.
+
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md).
