@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Analyse fonctionnelle - CLAJ (Site multipages)
+# Analyse - CLAJ (Site multipages)
 
 - [Infos sur le client](#infos-sur-le-client)
   - [Buts du CLAJ](#buts-du-claj)
@@ -18,7 +18,6 @@
   - [Globales](#globales)
   - [Contenu](#contenu)
   - [Recherches](#recherches)
-  - [Questions - Fabien](#questions---fabien)
 
 Ce projet est réalisé par :
 |                | Joéllie                          | Mohamed   | Rachel          | Yana                       |
@@ -28,7 +27,7 @@ Ce projet est réalisé par :
 
 ## Infos sur le client
 
-**CLAJ** : *Centre Liégeois d'Aide aux Jeunes* AMO, service d'Aide en Milieu Ouvert. Le centre a déjà un [site web](http://claj.be/), ainsi qu'une [page Facebook](https://www.facebook.com/centreliegeoisdaideauxjeunes/). Le contenu de l'ancien site est à reprendre, c'est récupéré.
+**CLAJ** : *Centre Liégeois d'Aide aux Jeunes* AMO, service d'Actions (avant : Aide) en Milieu Ouvert. Le centre a déjà un [site web](http://claj.be/), ainsi qu'une [page Facebook](https://www.facebook.com/centreliegeoisdaideauxjeunes/). Le contenu de l'ancien site est à reprendre, c'est récupéré.
 
 :bulb: Le client rencontre un problème d'accès d'[OVH](https://www.ovh.com/fr/) (un cloud, hébergement Internet).
 
@@ -66,6 +65,8 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 - **Personne de contact :** *Martin Snoeck*, éducateur ;
 - **Mail :** claj.martinsnoeck@gmail.com ;
 - **Téléphone :** 04 344 44 72.
+
+**+** Catherine, claj.catherine@gmail.com.
 
 ## Techniquement parlant
 
@@ -287,20 +288,5 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 - [ ] Bcrypt mot de passe ;
 - [ ] * Quel CMS / Languages / Framework / ... :interrobang: (React, Node.js, Drupal, CodeIgniter, Symfony, Magento, Strapi, Laravel, ...) ;
 - [ ] Regarder (à l'internationale) les sites des autres centres des jeunes.
-
-### Questions - Fabien
-
-- Avec qui travaillent ? Autres centres ou ASBL ?
-- Partenaires ?
-- Combien sont-ils à travailler dedans ?
-- Visibilité ? De quel sort, pour quoi exactement, que veut dire par ça ?
-- Visibilité auprès du quel public ?
-- Combien de visites sur le site par mois ? La visibilité c'est plus des visites ou autre ?
-- De quel manière on voit que l'objectif (chiffré) est rempli ?
-- Une newsletter ?
-- Quels subsides et comment ? Mettre les sponsors en valeur ?
-- Quel site voulez-vous ? Pourquoi comme ça ? Que cherchez-vous à faire ?
-
-:bulb: Calendrier ! Deadlines - interactions faciles ou il est occupé ? Si occupé, faut être plus pertinent !
 
 :bulb: Prendre la personne par la main - envoyer un mail de résumé après.
