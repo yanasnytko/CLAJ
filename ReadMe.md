@@ -19,6 +19,8 @@
   - [Contenu](#contenu)
   - [Recherches](#recherches)
 
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md).
+
 Ce projet est réalisé par :
 |                | Joéllie                          | Mohamed   | Rachel          | Yana                       |
 | -------------- | -------------------------------- | --------- | --------------- | -------------------------- |
@@ -230,11 +232,9 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 
 - Définir des **actions prioritaires** ;
 
-- Existe-t-il une **charte graphique** (nom des polices, couleurs, taille, etc) ?
+- Existe-t-il une **charte graphique** (nom des polices, couleurs, taille, etc) ? Non
 
 - Quelles sont les **valeurs** et objectifs ?
-
-- Quelles sont les caractéristiques du **public cible**/client idéal (âge, sexe, habitude de consommation, zone géographique) ?
 
 - Quelle serait la solution idéale s’il n’y avait pas de contrainte de temps et de budget ?
 
@@ -242,11 +242,11 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 
 ### Globales
 
-- Toujours spécifier "**AMO**" ?
+- Toujours spécifier "**AMO**" ? Oui
 
-- Est-ce que le client a toujours ses accès à [**OVH**](https://www.ovh.com/fr/) ?
+- Est-ce que le client a toujours ses accès à [**OVH**](https://www.ovh.com/fr/) ? Non
 
-- Une ou 7 pages **Facebook** ?
+- Une ou 7 pages **Facebook** ? Une
 
 - Un des buts est "regrouper infos sur le CLAJ" : infos institutionnelles ou blog ?
 
@@ -254,13 +254,13 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 
 - Clarifier **plugin** Facebook et events ;
 
-- Faire lien avec page **Instagram** ?
+- Faire lien avec page **Instagram** ? Non
 
 - Les mêmes activités dans toutes les **antennes** ? Quelles sont les spécificités par antenne ? Quels sont les services précis ?
 
 - Comment se font les **interactions** avec l'utilisateur (téléphone, mail, site web, réseaux sociaux, en présentiel, …) ?
 
-- Que disent les utilisateurs sur le service ?
+- Que disent les utilisateurs sur le site ? Dépassé
 
 - Comment le client mesure-t-il le succès de son projet (augmentation client, augmentation des inscriptions, changement d’image, …) ?
 
@@ -284,7 +284,7 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 
 ### Recherches
 
-- [ ] FB developper doc - comment récuperer les events dans l'API ;
-- [ ] Bcrypt mot de passe ;
-- [ ] * Quel CMS / Languages / Framework / ... :interrobang: (React, Node.js, Drupal, CodeIgniter, Symfony, Magento, Strapi, Laravel, ...) ;
+- [ ] FB developper doc - comment récuperer les events et les publications dans l'API ;
 - [ ] Regarder (à l'internationale) les sites des autres centres des jeunes.
+
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md).
