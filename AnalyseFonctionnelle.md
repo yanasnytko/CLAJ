@@ -18,7 +18,7 @@ Le CLAJ est constitué des **six** centres liés à des quartiers différents de
 - collectif (c. c. - blue) ;
 - communautaire (c. c. - vert).
 
-Actuellement le retour du public cible est que le site est dépassé. De plus, l'**arboresence** est trop compliquée, elle doit être plus intuitive avec des liens claires. Ainsi, la valorisation du site se fera pas uniquement par des visites et l'accès aux informations, mais également par des **redirictions** vers des autres sites.
+Actuellement le retour du public cible est que le site est dépassé. De plus, l'**arborescence** est trop compliquée, elle doit être plus intuitive avec des liens claires. Ainsi, la valorisation du site se fera pas uniquement par des visites et l'accès aux informations, mais également par des **redirictions** vers des autres sites.
 
 :bulb: Attention à mettre **AMO** (*Actions en Milieu Ouvert*) partout !
 
