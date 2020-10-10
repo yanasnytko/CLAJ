@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Analyse - CLAJ (Site multipages)
+# CLAJ (Site multipages)
 
 - [Infos sur le client](#infos-sur-le-client)
   - [Buts du CLAJ](#buts-du-claj)
