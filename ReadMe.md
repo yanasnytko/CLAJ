@@ -288,5 +288,3 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 - [ ] Bcrypt mot de passe ;
 - [ ] * Quel CMS / Languages / Framework / ... :interrobang: (React, Node.js, Drupal, CodeIgniter, Symfony, Magento, Strapi, Laravel, ...) ;
 - [ ] Regarder (à l'internationale) les sites des autres centres des jeunes.
-
-:bulb: Prendre la personne par la main - envoyer un mail de résumé après.
