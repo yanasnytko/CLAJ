@@ -19,7 +19,7 @@
   - [Contenu](#contenu)
   - [Recherches](#recherches)
 
-:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md).
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) ou le [fichier SCRUM](SCRUM.md).
 
 Ce projet est réalisé par :
 |                | Joéllie                          | Mohamed   | Rachel          | Yana                       |
@@ -287,4 +287,4 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 - [ ] FB developper doc - comment récuperer les events et les publications dans l'API ;
 - [ ] Regarder (à l'internationale) les sites des autres centres des jeunes.
 
-:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md).
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) ou le [fichier SCRUM](SCRUM.md).
