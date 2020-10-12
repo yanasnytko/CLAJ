@@ -19,6 +19,8 @@
   - [Burn Down Chart](#burn-down-chart)
 - [Sprint Meeting Review](#sprint-meeting-review)
 
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) ou l'[analyse fonctionnelle](AnalyseFonctionnelle.md).
+
 ## Préparation
 
 ### User stories
@@ -116,3 +118,5 @@ Un graphique lors du sprint qui veille à l'évolution du projet. Il reprend don
 ## Sprint Meeting Review
 
 Présentation du produit après un sprint avec la prise en compte des tous les retours et problématiques rencontrées, qui seront ajoutés dans le Product Backlog.
+
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) ou l'[analyse fonctionnelle](AnalyseFonctionnelle.md).
