@@ -10,7 +10,7 @@
   - [Fonctions complémentaires](#fonctions-complémentaires)
 - [Propositions](#propositions)
 
-:bulb: Voir l'[analyse de la 1re demande](ReadMe.md).
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) ou le [fichier SCRUM](SCRUM.md).
 
 ## Description
 
@@ -100,4 +100,4 @@ Le CLAJ s'adresse à tout type de demande tant que cette dernière est faite par
 
 - Ne plus fonctionner par code couleur pour les axes d'aide (individuel, collectif et communautaire), mais par pictos.
 
-:bulb: Voir l'[analyse de la 1re demande](ReadMe.md).
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) ou le [fichier SCRUM](SCRUM.md).
