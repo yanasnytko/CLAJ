@@ -10,7 +10,11 @@
   - [Fonctions complémentaires](#fonctions-complémentaires)
 - [Propositions](#propositions)
 
-:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) ou le [fichier SCRUM](SCRUM.md).
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
+
+:bulb: Voir le [fichier SCRUM](SCRUM.md) !
+
+:bulb: Voir les [backlogs](Backlogs.md) !
 
 ## Description
 
@@ -98,6 +102,14 @@ Le CLAJ s'adresse à tout type de demande tant que cette dernière est faite par
 
 - Séparation du site en trois onglets en fonction du public cible ;
 
-- Ne plus fonctionner par code couleur pour les axes d'aide (individuel, collectif et communautaire), mais par pictos.
+- Ne plus fonctionner par code couleur pour les axes d'aide (individuel, collectif et communautaire), mais par pictos ;
 
-:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) ou le [fichier SCRUM](SCRUM.md).
+- Mettre un input de Objet vide dans le formulaire de contact, avec possibilité de voir une liste avec propositions des Objets ;
+
+- Proposer des réponses automatiques dans le chatbot.
+
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
+
+:bulb: Voir le [fichier SCRUM](SCRUM.md) !
+
+:bulb: Voir les [backlogs](Backlogs.md) !
