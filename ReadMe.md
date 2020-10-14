@@ -19,13 +19,17 @@
   - [Contenu](#contenu)
   - [Recherches](#recherches)
 
-:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) ou le [fichier SCRUM](SCRUM.md).
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) !
+
+:bulb: Voir le [fichier SCRUM](SCRUM.md) !
+
+:bulb: Voir les [backlogs](Backlogs.md) !
 
 Ce projet est réalisé par :
-|                | Joéllie                          | Mohamed   | Rachel          | Yana                       |
-| -------------- | -------------------------------- | --------- | --------------- | -------------------------- |
-| **Tâches**     | Structure, contenu, UX et Design | Front-End | Front-End       | Back-end - Project manager |
-| **Complement** | support                          |           | design, support | illus / design ?           |
+|                | Joéllie                          | Mohamed   | Rachel                  | Yana                       |
+| -------------- | -------------------------------- | --------- | ----------------------- | -------------------------- |
+| **Tâches**     | Structure, contenu, UX et Design | Front-End | Front-End, SCRUM Master | Back-end - Project manager |
+| **Complement** | support                          |           | design, support         | illus / design ?           |
 
 ## Infos sur le client
 
@@ -264,6 +268,8 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 
 - Comment le client mesure-t-il le succès de son projet (augmentation client, augmentation des inscriptions, changement d’image, …) ?
 
+- Avez-vous souvent des demandes dans d'autres langues que le français ?
+
 ### Contenu
 
 - Google **Maps** est payant - ok pour un équivalent ?
@@ -287,4 +293,8 @@ Un soutien **socio-éducatif**, une aide préventive dans le milieu de vie (fami
 - [ ] FB developper doc - comment récuperer les events et les publications dans l'API ;
 - [ ] Regarder (à l'internationale) les sites des autres centres des jeunes.
 
-:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) ou le [fichier SCRUM](SCRUM.md).
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) !
+
+:bulb: Voir le [fichier SCRUM](SCRUM.md) !
+
+:bulb: Voir les [backlogs](Backlogs.md) !
