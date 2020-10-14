@@ -2,16 +2,7 @@
 # SCRUM
 
 - [Préparation](#préparation)
-  - [User stories](#user-stories)
-    - [Ado](#ado)
-      - [Ado - Cas 1](#ado---cas-1)
-      - [Ado - Cas 2](#ado---cas-2)
-    - [Mère](#mère)
-      - [Mère - Cas 1](#mère---cas-1)
-      - [Mère - Cas 2](#mère---cas-2)
-    - [École](#école)
-      - [École - Cas 1](#école---cas-1)
-      - [École - Cas 2](#école---cas-2)
+  - [User stories / Backlog](#user-stories--backlog)
   - [Product Backlog](#product-backlog)
   - [Sprint Planning](#sprint-planning)
 - [Développement](#développement)
@@ -19,11 +10,15 @@
   - [Burn Down Chart](#burn-down-chart)
 - [Sprint Meeting Review](#sprint-meeting-review)
 
-:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) ou l'[analyse fonctionnelle](AnalyseFonctionnelle.md).
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
+
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) !
+
+:bulb: Voir les [backlogs](Backlogs.md) !
 
 ## Préparation
 
-### User stories
+### User stories / Backlog
 
 Une description détaillée d'une feature, par exemple :
 
@@ -36,60 +31,9 @@ La story peut être décrite sous forme d'histoire d'un persona : As a (user), I
 - Nom / identifiant ;
 - Importance, valeur de priotité ;
 - Estimation de travail nécessaire ;
-- Demo, test simple de la story.accordion_content.
+- Demo, test simple de la story.
 
-#### Ado
-
-En tant que adolescent de 16 ans, j'ai besoin de conseils, car la situation avec mes parents devient difficile et même dangereuse.
-
-Donc, il doit trouver un moyen de contacter CLAJ au plus vite, que ce soit par numéro d'urgence ou en arrivant sur place.
-
-##### Ado - Cas 1
-
-1. L'adolescent vient sur le site de CLAJ avec un vieux Samsung Galaxy sur le réseau public de Liège ;
-2. Il voit le numéro d'urgence qui se charge très vite sur le site.
-
-##### Ado - Cas 2
-
-1. L'adolescent vient sur le site de CLAJ avec un vieux Samsung Galaxy sur le réseau public de Liège ;
-2. Il consulte les adresses des CLAJ divers ;
-3. Il trouve le CLAJ le plus proche grâce à Google Map (et la géolocalisation) ;
-4. Il retrouve très vite ce batîment de CLAJ grâce au Street View.
-
-#### Mère
-
-En tant que maman d'une petite fille de 6 ans, j'ai besoin de trouver un club de sport pour elle dans le quartier de Saint-Margarite, car nous venons de démenager de France.
-
-Donc, elle a besoin de prendre des renseignements chez CLAJ via le formulaire de contact, un RDV ou un appel téléphonique.
-
-##### Mère - Cas 1
-
-1. La maman se rend sur le site de CLAJ avec un PC sous Windows 10 ;
-2. Elle trouve le formulaire de contact et formule sa demande ;
-3. Elle reçoit un e-mail de confirmation sur sa boîte mail.
-
-##### Mère - Cas 2
-
-1. La maman se rend sur le site de CLAJ avec un PC sous Windows 10 ;
-2. Elle trouve le numéro du CLAJ de quartier Saint-Margerite et leur sonne pour avoir les informations.
-
-#### École
-
-En tant que l'école secondaire, nous avons besoin d'organiser une séance de prévention de harcèlement, car nous avons eu deux cas l'année dernière.
-
-Donc, ils ont besoin de trouver les activités proposés par CLAJ et le moyen de les contacter pour avoir une analyse de demande.
-
-##### École - Cas 1
-
-1. L'établissement scolaire se rend sur le site de CLAJ avec un Mac de 2017 ;
-2. Ils trouvent les activités proposé par CLAJ liées aux écoles ;
-3. Ils en choisissent celle qui leur convient et contacte le CLAJ pour avoir une analyse de demande.
-
-##### École - Cas 2
-
-1. L'établissement scolaire se rend sur le site de CLAJ avec un Mac de 2017 ;
-2. Ils trouvent le numéro du téléphone du CLAJ de leur quartier ;
-3. Ils les contactent pour avoir les informations sur la séance de prévention de harcèlement.
+:bulb: Voir les [backlogs](Backlogs.md) !
 
 ### Product Backlog
 
@@ -119,4 +63,8 @@ Un graphique lors du sprint qui veille à l'évolution du projet. Il reprend don
 
 Présentation du produit après un sprint avec la prise en compte des tous les retours et problématiques rencontrées, qui seront ajoutés dans le Product Backlog.
 
-:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) ou l'[analyse fonctionnelle](AnalyseFonctionnelle.md).
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
+
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) !
+
+:bulb: Voir les [backlogs](Backlogs.md) !
