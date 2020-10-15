@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Backlogs - CLAJ
 
-- [User stories](#user-stories)
+- [User stories (Justifiantes)](#user-stories-justifiantes)
   - [Personne dans l'urgence](#personne-dans-lurgence)
     - [Personne dans l'urgence - Cas 1](#personne-dans-lurgence---cas-1)
     - [Personne dans l'urgence - Cas 2](#personne-dans-lurgence---cas-2)
@@ -15,9 +15,26 @@
   - [Visiteur pas couvert géographiquement](#visiteur-pas-couvert-géographiquement)
   - [Visiteur qui connaît déjà CLAJ](#visiteur-qui-connaît-déjà-claj)
 - [Product Backlog / Fonctionnalités](#product-backlog--fonctionnalités)
-  - [Rensignements](#rensignements)
-  - [Contact](#contact)
-  - [Outils](#outils)
+  - [Design (en dehors des priorités - en parallèle)](#design-en-dehors-des-priorités---en-parallèle)
+  - [Général](#général)
+    - [WordPress](#wordpress)
+    - [Header](#header)
+    - [Footer](#footer)
+    - [Hébergement](#hébergement)
+  - [Contact, page](#contact-page)
+    - [Formulaire de contact](#formulaire-de-contact)
+    - [Section d'antenne, ACF](#section-dantenne-acf)
+  - [Aides, page](#aides-page)
+    - [Page d'aide pour public cible](#page-daide-pour-public-cible)
+  - [Actualités, page](#actualités-page)
+    - [Publication, ACF](#publication-acf)
+  - [Activités et outils](#activités-et-outils)
+    - [Outil, ACF](#outil-acf)
+    - [Animation, ACF](#animation-acf)
+  - [À propos](#à-propos)
+    - [Partenaire, ACF](#partenaire-acf)
+  - [Accueil](#accueil)
+  - [Suite](#suite)
 
 :bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
 
@@ -25,7 +42,7 @@
 
 :bulb: Voir le [fichier SCRUM](SCRUM.md) !
 
-## User stories
+## User stories (Justifiantes)
 
 ### Personne dans l'urgence
 
@@ -116,11 +133,166 @@ Donc j'ai besoin de trouver les nouvelles publications faites par CLAJ.
 
 Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent en Epics - grandes parties du projet, et en Histoires, pour les tâches principales subdivisées (j'ai besoin de me connecter - comment ?). Tout est trié selon le degré d'importance.
 
-### Rensignements
+### Design (en dehors des priorités - en parallèle)
 
-### Contact
+- Arborescence ;
+- Couleurs, palette ;
+- Test couleurs pour Handicaps visuels ;
+- WireFrames ;
+- Design sur Figma.
 
-### Outils
+### Général
+
+- Création de projet sur WordPress ;
+- Version Mobile (responsive) ;
+- Version Desktop.
+
+#### WordPress
+
+- Installer plug-in pour [Formulaire de contact](#formulaire-de-contact) ;
+- Installer plug-ins de sécurité et les tester ;
+- Installer plug-in Advanced Custom Fields PRO (cf. Projet 2) ;
+- Installer plug-in Custom Post Type UI (cf. Projet 2) ;
+- Installer plug-in Akismet Anti-Spam ;
+- Installer plug-in UpdraftPlus - Backup/Restore ?
+- Préparer le menu.
+
+#### Header
+
+- Un menu (WordPress) ;
+- Header codé ;
+- Liens correspondants vers les pages principales du site (Home (logo), À propos, Outils / Activités, Actualité, Contact) ;
+- Lien - numéro d'urgence ?
+
+#### Footer
+
+- Un menu (WordPress) ;
+- Footer codé ;
+- Liens - logos des Subsides ;
+- Lien - numéro d'urgence.
+
+#### Hébergement
+
+- Création de compte OVH ;
+- Test sur OVH, si le lien fonctionne ;
+- Création des adresses e-mails (6 antennes + +-20 personnes + info + stage).
+
+### Contact, page
+
+- Page Contact sur WordPress ;
+- Page Contact codée ;
+- [Formulaire de contact](#formulaire-de-contact) ;
+- [ACF pour la section de l'antenne](#section-dantenne-acf) ;
+- 6 sections pour les antennes ;
+- Liens pour les téléphones et les e-mails des antennes ;
+- Google Map avec les adresses des 6 antennes ;
+- Street View pour chaque antenne ;
+- Lien "Ne trouvez pas votre quartier ? Regardez chez nos partenaires" vers la page À propos avec des partenaires.
+
+#### Formulaire de contact
+
+- Input E-mail ;
+- Input Objet ;
+- Outgroup - Destinateurs (6 antennes et Info au minimum) ;
+- Textarea - Message ;
+- Button d'envoie ;
+- Intégrer RGPD ;
+- Plug-in de gestion de formulaires de contact - WordPress.
+
+#### Section d'antenne, ACF
+
+- Nom ;
+- Adresse ;
+- Téléphone (lien) ;
+- E-mail (lien) ;
+- Nom de personne de contact ;
+- Horaire ;
+- Détails sur l'antenne.
+
+### Aides, page
+
+- Page Aides sur WordPress ;
+- Page Aides codée ;
+- Section avec "puzzle" des cibles ;
+- Lien pour chaque cible qui renvoie sur la page dédiée.
+
+#### Page d'aide pour public cible
+
+- Description ;
+- Trois sections pour aides Individuelle, Collective et Communautaire ;
+- Lien vers [Contact](#contact-page).
+
+### Actualités, page
+
+- Page Actualités sur WordPress ;
+- Page Actualités codée ;
+- [ACF des publications](#publication-acf) ;
+- Lien vers la page des Activités.
+
+#### Publication, ACF
+
+- Titre ;
+- Image ;
+- Date ;
+- Texte de la publcation ;
+- Lien vers Facebook ;
+- Autres liens.
+
+### Activités et outils
+
+- Page Outils sur WordPress ;
+- Page Outils codée ;
+- [ACF pour outils](#outil-acf) ;
+- [ACF pour animations](#animation-acf) ;
+- Lien vers [Equinoxe FM](http://www.equinoxefm.be/).
+
+#### Outil, ACF
+
+- Nom ;
+- Pour qui ;
+- Description ;
+- Lien pour contacter.
+
+#### Animation, ACF
+
+- Nom ;
+- Public cible ;
+- Quand ;
+- Description ;
+- Lien pour contacter.
+
+### À propos
+
+- Page À propos sur WordPress ;
+- Page À propos codée ;
+- Section de description de l'AMO ;
+- Liens vers [Aides](#aides-page) et [Contact](#contact-page).
+- [ACF pour partenaires](#partenaire-acf) ;
+- Lien vers [Equinoxe FM](http://www.equinoxefm.be/).
+
+#### Partenaire, ACF
+
+- Nom (lien) ;
+- Logo (lien) ;
+- Lien vers le site ;
+- Description.
+
+### Accueil
+
+- Page Accueil WordPress ;
+- Page Accueil codée ;
+- ACF pour commentaires très importants ;
+- Sections des explications sur les pages principales ;
+- Liens "En savoir plus".
+
+### Suite
+
+- CSS pour chaque page ;
+- Régler les accès au WordPress pour le client ;
+- Intégration de [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision) ;
+- Intégration de Chatbox (bot) ?
+- Prévoir un endroit pour lien (picto) d'Instagram ;
+- Finir l'hébergement.
 
 :bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
 
