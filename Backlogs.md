@@ -25,7 +25,7 @@
     - [Formulaire de contact](#formulaire-de-contact)
     - [Section d'antenne, ACF](#section-dantenne-acf)
   - [Aides, page](#aides-page)
-    - [Page d'aide pour public cible](#page-daide-pour-public-cible)
+    - [Page d'aide pour public cible, ACF](#page-daide-pour-public-cible-acf)
   - [Actualités, page](#actualités-page)
     - [Publication, ACF](#publication-acf)
   - [Activités et outils](#activités-et-outils)
@@ -214,9 +214,10 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 - Page Aides sur WordPress ;
 - Page Aides codée ;
 - Section avec "puzzle" des cibles ;
-- Lien pour chaque cible qui renvoie sur la page dédiée.
+- Lien pour chaque cible qui renvoie sur la page dédiée ;
+- ACF pour les pages du public cible.
 
-#### Page d'aide pour public cible
+#### Page d'aide pour public cible, ACF
 
 - Description ;
 - Trois sections pour aides Individuelle, Collective et Communautaire ;
@@ -234,7 +235,7 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 - Titre ;
 - Image ;
 - Date ;
-- Texte de la publcation ;
+- Texte de la publication ;
 - Lien vers Facebook ;
 - Autres liens.
 
@@ -292,7 +293,8 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 - Intégration de [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision) ;
 - Intégration de Chatbox (bot) ?
 - Prévoir un endroit pour lien (picto) d'Instagram ;
-- Finir l'hébergement.
+- Finir l'hébergement ;
+- Illustrations pour "puzzle" du public cible.
 
 :bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
 
