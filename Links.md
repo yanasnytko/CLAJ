@@ -1,4 +1,13 @@
+<!-- omit in toc -->
 # Liens utiles
+
+- [Navigation interne](#navigation-interne)
+- [WordPress](#wordpress)
+  - [WordPress Themes](#wordpress-themes)
+- [Sécurité WordPress - articles](#sécurité-wordpress---articles)
+- [Scrum Master - YouTube](#scrum-master---youtube)
+- [Backlog](#backlog)
+- [Autre](#autre)
 
 ## Navigation interne
 
@@ -46,7 +55,12 @@
 - [Le Burn Down Chart - Scrum Life 1](https://www.youtube.com/watch?v=kicIINwuPuI&ab_channel=ScrumLife) ;
 - [Les Dérives du Burn-Down Chart - Scrum Life 2](https://www.youtube.com/watch?v=-u1jn52M350&ab_channel=ScrumLife) ;
 - [Les outils du Scrum Master : Préparer la Rétro - Scrum Life 10](https://www.youtube.com/watch?v=WAkEMoqV5CI&ab_channel=ScrumLife) ;
-- [Scrum Master : FORMATION pour débuter - 5 CONSEILS pour BIEN DÉMARRER (+ BONUS !)](https://www.youtube.com/watch?v=cuwcFytxKMY&ab_channel=ScrumLife)
+- [Scrum Master : FORMATION pour débuter - 5 CONSEILS pour BIEN DÉMARRER (+ BONUS !)](https://www.youtube.com/watch?v=cuwcFytxKMY&ab_channel=ScrumLife).
+
+## Backlog
+
+- [Un projet de bout en bout](http://unprojetdeboutenbout.free.fr/?p=225) ;
+- [Qu’est qu’un backlog ? Comment le construire et le gérer ?](https://hubvisory.com/blog/qu-est-qu-un-backlog-comment-le-construire-et-le-gerer/).
 
 ## Autre
 
@@ -55,4 +69,4 @@
 - [Apprendre SASS en une heure](https://coursehunter.net/course/sass-ot-novichka-do-eksperta), vidéos en anglais ;
 - [WhatsApp chat plug-in for WordPress](https://wordpress.org/plugins/wp-whatsapp-chat/) ;
 - [How to Create a Custom Post Types in WordPress](https://www.cloudways.com/blog/how-to-create-custom-post-types-in-wordpress/) ;
-- [The Complete Guide To WordPress Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/) ;
+- [The Complete Guide To WordPress Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/).
