@@ -169,7 +169,8 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 - Un menu (WordPress) ;
 - Footer codé ;
 - Liens - logos des Subsides ;
-- Lien - numéro d'urgence.
+- Lien - numéro d'urgence ;
+- Lien Facebook.
 
 #### Hébergement
 
@@ -293,6 +294,7 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 - Intégration de [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision) ;
 - Intégration de Chatbox (bot) ?
 - Prévoir un endroit pour lien (picto) d'Instagram ;
+- Prévoir un endroit pour lien (picto) de Facebook ;
 - Finir l'hébergement ;
 - Illustrations pour "puzzle" du public cible.
 
