@@ -28,13 +28,15 @@
     - [Page d'aide pour public cible, ACF](#page-daide-pour-public-cible-acf)
   - [Actualités, page](#actualités-page)
     - [Publication, ACF](#publication-acf)
-  - [Activités et outils](#activités-et-outils)
+  - [Activités et outils, page](#activités-et-outils-page)
     - [Outil, ACF](#outil-acf)
     - [Animation, ACF](#animation-acf)
-  - [À propos](#à-propos)
+  - [À propos, page](#à-propos-page)
     - [Partenaire, ACF](#partenaire-acf)
-  - [Accueil](#accueil)
+  - [Accueil, page](#accueil-page)
   - [Suite](#suite)
+- [Poker Planning](#poker-planning)
+- [Sprint 1](#sprint-1)
 
 :bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
 
@@ -135,16 +137,16 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 
 ### Design (en dehors des priorités - en parallèle)
 
-- Arborescence ;
-- Couleurs, palette ;
-- Test couleurs pour Handicaps visuels ;
-- WireFrames ;
-- Design sur Figma.
+- Arborescence ; 2
+- Couleurs, palette ; 1
+- Test couleurs pour Handicaps visuels ; 1
+- WireFrames ; 3
+- Design sur Figma. 5
 
 ### Général
 
 - Création de projet sur WordPress ;
-- Version Mobile (responsive) ;
+- Version Mobile (responsive) ; 5
 - Version Desktop.
 
 #### WordPress
@@ -160,14 +162,14 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 #### Header
 
 - Un menu (WordPress) ;
-- Header codé ;
+- Header codé ; 1
 - Liens correspondants vers les pages principales du site (Home (logo), À propos, Outils / Activités, Actualité, Contact) ;
 - Lien - numéro d'urgence ?
 
 #### Footer
 
 - Un menu (WordPress) ;
-- Footer codé ;
+- Footer codé ; 1
 - Liens - logos des Subsides ;
 - Lien - numéro d'urgence ;
 - Lien Facebook.
@@ -181,12 +183,12 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 ### Contact, page
 
 - Page Contact sur WordPress ;
-- Page Contact codée ;
-- [Formulaire de contact](#formulaire-de-contact) ;
-- [ACF pour la section de l'antenne](#section-dantenne-acf) ;
+- Page Contact codée ; 3
+- [Formulaire de contact](#formulaire-de-contact) ; 2,5
+- [ACF pour la section de l'antenne](#section-dantenne-acf) ; 3
 - 6 sections pour les antennes ;
 - Liens pour les téléphones et les e-mails des antennes ;
-- Google Map avec les adresses des 6 antennes ;
+- Google Map avec les adresses des 6 antennes ; 5 (3)
 - Street View pour chaque antenne ;
 - Lien "Ne trouvez pas votre quartier ? Regardez chez nos partenaires" vers la page À propos avec des partenaires.
 
@@ -213,10 +215,10 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 ### Aides, page
 
 - Page Aides sur WordPress ;
-- Page Aides codée ;
-- Section avec "puzzle" des cibles ;
+- Page Aides codée ; 3, 8
+- Section avec "puzzle" des cibles ; 3 - J, 8
 - Lien pour chaque cible qui renvoie sur la page dédiée ;
-- ACF pour les pages du public cible.
+- ACF pour les pages du public cible. 3
 
 #### Page d'aide pour public cible, ACF
 
@@ -227,7 +229,7 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 ### Actualités, page
 
 - Page Actualités sur WordPress ;
-- Page Actualités codée ;
+- Page Actualités codée ; 8 + voir plug-in
 - [ACF des publications](#publication-acf) ;
 - Lien vers la page des Activités.
 
@@ -240,10 +242,10 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 - Lien vers Facebook ;
 - Autres liens.
 
-### Activités et outils
+### Activités et outils, page
 
 - Page Outils sur WordPress ;
-- Page Outils codée ;
+- Page Outils codée ; 3 (pdf ??)
 - [ACF pour outils](#outil-acf) ;
 - [ACF pour animations](#animation-acf) ;
 - Lien vers [Equinoxe FM](http://www.equinoxefm.be/).
@@ -263,10 +265,10 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 - Description ;
 - Lien pour contacter.
 
-### À propos
+### À propos, page
 
 - Page À propos sur WordPress ;
-- Page À propos codée ;
+- Page À propos codée ; 3
 - Section de description de l'AMO ;
 - Liens vers [Aides](#aides-page) et [Contact](#contact-page).
 - [ACF pour partenaires](#partenaire-acf) ;
@@ -279,24 +281,86 @@ Liste des tâches à effectuer pour terminer le produit. Les tâches se divisent
 - Lien vers le site ;
 - Description.
 
-### Accueil
+### Accueil, page
 
 - Page Accueil WordPress ;
-- Page Accueil codée ;
-- ACF pour commentaires très importants ;
+- Page Accueil codée ; 3
+- ACF pour commentaires très importants ; 8, 5 pour design
 - Sections des explications sur les pages principales ;
 - Liens "En savoir plus".
 
 ### Suite
 
-- CSS pour chaque page ;
-- Régler les accès au WordPress pour le client ;
-- Intégration de [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision) ;
-- Intégration de Chatbox (bot) ?
+- CSS pour chaque page ; 3 (5 pour SASS)
+- Régler les accès au WordPress pour le client ; 5
+- Intégration de [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision) ; 1
+- Intégration de Chatbox (bot) ? 5
 - Prévoir un endroit pour lien (picto) d'Instagram ;
 - Prévoir un endroit pour lien (picto) de Facebook ;
 - Finir l'hébergement ;
 - Illustrations pour "puzzle" du public cible.
+
+:bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
+
+:bulb: Voir l'[analyse fonctionnelle](AnalyseFonctionnelle.md) !
+
+:bulb: Voir le [fichier SCRUM](SCRUM.md) !
+
+## Poker Planning
+
+| Quoi                                                                | Combien |
+| ------------------------------------------------------------------- | ------- |
+| Arborescence                                                        | 2       |
+| Couleurs, test pour Handicap visuel                                 | 1       |
+| Wireframes                                                          | 3       |
+| Design                                                              | 5       |
+| Responsive                                                          | 5       |
+| [Installation des plug-ins WordPress](#wordpress)                   | 1       |
+| Les ACF                                                             | 3 x 5   |
+| [Header](#header)                                                   | 1       |
+| [Footer](#footer)                                                   | 1       |
+| [Formulaire de contact](#formulaire-de-contact) avec plug-in        | 3       |
+| Google Map et Street View                                           | 5       |
+| [Page Contact](#contact-page), intégration                          | 3       |
+| Section "puzzle"                                                    | 3       |
+| [Page Aides](#aides-page), intégration                              | 3       |
+| [Page Actualités](#actualités-page), intégration + plug-in Facebook | 8       |
+| [Page Activités / Outils](#activités-et-outils-page), intégration   | 3       |
+| [Page À propos](#à-propos-page), intégration                        | 3       |
+| Alertes - messages importants                                       | 8       |
+| [Page Accueil](#accueil-page), intégration                          | 3       |
+| CSS x 6 pages                                                       | 3 x 6   |
+| Chatbox / WhatsApp                                                  | 5       |
+| Accès WordPress                                                     | 5       |
+| Google Analytics                                                    | 1       |
+
+**Total : *105***
+
+## Sprint 1
+
+:bulb: 40 points de difficulté.
+
+:bulb: Ne pas oublier de regarder à l'hébergement !
+
+| Quoi                                                           | Combien |
+| -------------------------------------------------------------- | ------- |
+| Installation de projet WordPress                               | 1       |
+| [Installation des plug-ins WordPress](#wordpress)              | 1       |
+| Arborescence                                                   | 2       |
+| Prépartion du menu sur WordPress                               | 1       |
+| Couleurs, test pour Handicap visuel                            | 1       |
+| [Header](#header) HTML                                         | 1       |
+| [Footer](#footer) HTML                                         | 1       |
+| Wireframe de page Contact - Responsive + Desktop               | 3       |
+| [Formulaire de contact](#formulaire-de-contact) avec plug-in   | 3       |
+| [ACF Section de l'antenne](#section-dantenne-acf)              | 3       |
+| Google Map et Street View                                      | 5       |
+| [Page Contact](#contact-page) HTML                             | 3       |
+| Wireframe de page Aides - Responsive + Desktop                 | 3       |
+| Section "puzzle"                                               | 3       |
+| [ACF Pages du public cible](#page-daide-pour-public-cible-acf) | 3       |
+| [Page Aides](#aides-page) HTML                                 | 3       |
+| Recherches diverses, renseignement sur plug-in Facebook        | 3       |
 
 :bulb: Voir l'[analyse de la 1re demande](ReadMe.md) !
 
