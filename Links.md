@@ -37,7 +37,9 @@
 - [How to Develop a WordPress Theme Using Bootstrap (Part 1)](https://www.lyrathemes.com/blog/bootstrap-wordpress-theme-tutorial-1/) ;
 - [How to Develop a WordPress Theme Using Bootstrap (Part 2)](https://www.lyrathemes.com/bootstrap-wordpress-theme-tutorial-2/) ;
 - [Make a Custom WordPress Theme from Scratch (2020) #1](https://www.youtube.com/watch?v=ZJKAwJq9_xM), YouTube ;
-- [WordPress Tutorial: Developing a Wordpress Theme from Scratch](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/) ;
+- [WordPress Tutorial: Developing a Wordpress Theme from Scratch - Part 1](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/) ;
+- [WordPress Tutorial: Pagination, Comments, Functions, & Custom Posts - Part 2](https://www.taniarascia.com/wordpress-from-scratch-part-two/) ;
+- [WordPress Tutorial: Custom Fields and Meta Boxes - Part 3](https://www.taniarascia.com/wordpress-part-three-custom-fields-and-metaboxes/) ;
 - [Build a WordPress Theme from Scratch](https://scanwp.net/blog/create-a-wordpress-starter-theme-from-scratch/) ;
 - [Theme Development - Codex](https://codex.wordpress.org/Theme_Development) ;
 - [How to Make a WordPress Child Theme](https://wpshout.com/quick-guides/how-to-make-a-wordpress-child-theme/) ;
