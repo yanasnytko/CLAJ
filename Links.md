@@ -7,6 +7,7 @@
 - [Sécurité WordPress - articles](#sécurité-wordpress---articles)
 - [Scrum Master - YouTube](#scrum-master---youtube)
 - [Backlog](#backlog)
+- [Carrousel / Slider](#carrousel--slider)
 - [Autre](#autre)
 
 ## Navigation interne
@@ -24,7 +25,10 @@
 - [Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/) ;
 - [GitHub WPGulp](https://github.com/ahmadawais/WPGulp) : An advanced & extensively documented Gulp WordPress workflow. Kick start a build-workflow for your WordPress plugins and themes with Gulp. ;
 - [VISUALIZE THE WORDPRESS TEMPLATE HIERARCHY](https://wphierarchy.com/) ;
-- [How to Add Featured Image Support to a WordPress Theme](https://www.ostraining.com/blog/wordpress/featured-image-support/).
+- [How to Add Featured Image Support to a WordPress Theme](https://www.ostraining.com/blog/wordpress/featured-image-support/) ;
+- [WhatsApp chat plug-in for WordPress](https://wordpress.org/plugins/wp-whatsapp-chat/) ;
+- [How to Create a Custom Post Types in WordPress](https://www.cloudways.com/blog/how-to-create-custom-post-types-in-wordpress/) ;
+- [The Complete Guide To WordPress Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/).
 
 ### WordPress Themes
 
@@ -62,11 +66,15 @@
 - [Un projet de bout en bout](http://unprojetdeboutenbout.free.fr/?p=225) ;
 - [Qu’est qu’un backlog ? Comment le construire et le gérer ?](https://hubvisory.com/blog/qu-est-qu-un-backlog-comment-le-construire-et-le-gerer/).
 
+## Carrousel / Slider
+
+- [Coding a Bootstrap Slider For Your WordPress Theme](https://www.lyrathemes.com/blog/bootstrap-carousel-tutorial/) ;
+- [Alternatives to Using a Slider for Better Home Page Conversions](https://managewp.com/blog/slider-alternatives) ;
+- [Sliders suck and should be banned from your website](https://yoast.com/opinion-on-sliders/) ;
+- [Should I use a carousel?](http://shouldiuseacarousel.com/).
+
 ## Autre
 
 - [‘Contact Us’ Page Guidelines](https://www.nngroup.com/articles/contact-us-pages/) ;
 - [Gérer Git avec Visual Studio Code](https://laboiteajb.fr/gerer-git-avec-visual-studio-code/) ;
-- [Apprendre SASS en une heure](https://coursehunter.net/course/sass-ot-novichka-do-eksperta), vidéos en anglais ;
-- [WhatsApp chat plug-in for WordPress](https://wordpress.org/plugins/wp-whatsapp-chat/) ;
-- [How to Create a Custom Post Types in WordPress](https://www.cloudways.com/blog/how-to-create-custom-post-types-in-wordpress/) ;
-- [The Complete Guide To WordPress Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/).
+- [Apprendre SASS en une heure](https://coursehunter.net/course/sass-ot-novichka-do-eksperta), vidéos en anglais.
